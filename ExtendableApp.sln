@@ -5,6 +5,10 @@ VisualStudioVersion = 15.0.28307.779
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CommonSnappableTypes", "CommonSnappableTypes\CommonSnappableTypes.csproj", "{331FBAD2-F235-4923-881C-82EE3A77B010}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpSnapIn", "CSharpSnapIn\CSharpSnapIn.csproj", "{B6B28F9C-C6FC-4C10-B6F1-3233C74BD6AA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyExtendableApp", "MyExtendableApp\MyExtendableApp.csproj", "{E27F6574-A145-4C79-B566-AD2CCEDF6A08}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{331FBAD2-F235-4923-881C-82EE3A77B010}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{331FBAD2-F235-4923-881C-82EE3A77B010}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{331FBAD2-F235-4923-881C-82EE3A77B010}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B6B28F9C-C6FC-4C10-B6F1-3233C74BD6AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6B28F9C-C6FC-4C10-B6F1-3233C74BD6AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6B28F9C-C6FC-4C10-B6F1-3233C74BD6AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6B28F9C-C6FC-4C10-B6F1-3233C74BD6AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E27F6574-A145-4C79-B566-AD2CCEDF6A08}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E27F6574-A145-4C79-B566-AD2CCEDF6A08}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E27F6574-A145-4C79-B566-AD2CCEDF6A08}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E27F6574-A145-4C79-B566-AD2CCEDF6A08}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
